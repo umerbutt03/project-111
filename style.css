@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+body{background-image:url(3.jpg);}
+h1{
+	font-size: 36px;
+	color: red;
+}
+h2
+{
+	font-size: 30px;
+	color: red;
+}
+.foo{
+	font-family: ariel;
+	font-size: 12px;
+	border-style: solid;
+	border-color: blue;
+	border-width: 2px wide;
+		
+}
+.para{
+	font-family: ariel;
+	font-size: 12px;
+	
+	border-style: solid;
+	border-color: black;
+	border-width: 2px wide;
+	
+}
+.divs{
+	border-style: solid;
+	border-color: purple;
+	height: 300px;
+	width: 400px;
+	margin: 5px;
+	padding: 10px;
+	float: left;
+}
